@@ -4,7 +4,7 @@
 [![Node JS](https://img.shields.io/badge/Node%20JS-v10.16.0-green.svg?logo=nodejs)](https://nodejs.org/)
 [![Nodemon](https://img.shields.io/badge/Modemon-v1.18.10-brightgreen.svg?logo=nodemon)](https://nodemon.io/)
 [![Babel](https://img.shields.io/badge/Babel-v6.26.0-yellow.svg?logo=babel)](https://babeljs.io/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-v6.0.1-green.svg?logo=mongo-db)](https://www.mongodb.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-v6.0.1-green.svg?logo=mongodb)](https://www.mongodb.com/)
 [![Expo](https://img.shields.io/badge/Expo-SDK35.0.0-black.svg?logo=expo)](https://expo.io/)
 [![Socket IO](https://img.shields.io/badge/Socket.io-v2.2.0-black.svg?logo=socket.io)](https://socket.io/)
 
