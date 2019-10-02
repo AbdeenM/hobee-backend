@@ -40,7 +40,7 @@ Once you have the project files downloaded navigate to where the `package.json` 
   * `SERVER_URL:` place your current servers url.
   * `DB)URL:` you can leave this as is or modify the "hobee" string to whatever you like. (This is the name of your db).
   * `JWT_SECRET:` you can leave this as is or modify it. (This is your passport secret, can be any random string).
-2. Run `npm run build:watch` on the project root directory, to build your dist/ file which will be your compiled source code
+2. Run `npm run build:watch` on the project root directory, to build your `dist/` file which will be your compiled source code
 3. Run on a new terminal instancec `npm run dev` on your project root directory, to run the server.
 4. Now sit back relax and enjoy exploring the application!
 
