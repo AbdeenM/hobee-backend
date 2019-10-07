@@ -1,4 +1,4 @@
-# Hobbe Backend Server
+# ![alt text](https://github.com/AbdeenM/hobee-backend/blob/master/icon.png) Hobbe Backend Server
 
 [![Status](https://img.shields.io/badge/build-passing-green.svg?branch=master)](https://github.com/AbdeenM/hobee-backend)
 [![Node JS](https://img.shields.io/badge/Node%20JS-v10.16.0-green.svg?logo=nodejs)](https://nodejs.org/)
