@@ -7,6 +7,7 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-v6.0.1-green.svg?logo=mongodb)](https://www.mongodb.com/)
 [![Expo](https://img.shields.io/badge/Expo-SDK35.0.0-black.svg?logo=expo)](https://expo.io/)
 [![Socket IO](https://img.shields.io/badge/Socket.io-v2.2.0-black.svg?logo=socket.io)](https://socket.io/)
+[![License](https://img.shields.io/badge/License-MIT-yellowgreen.svg)](http://mit-license.org/)
 
 ## Features
 
