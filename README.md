@@ -1,6 +1,6 @@
 # ![alt text](https://github.com/AbdeenM/hobee-backend/blob/master/icon.png) Hobbe Backend Server
 
-[![Status](https://img.shields.io/badge/build-passing-green.svg?branch=master)](https://github.com/AbdeenM/hobee-backend)
+[![Status](https://travis-ci.org/AbdeenM/hobee-backend.svg?branch=master)](https://github.com/AbdeenM/hobee-backend)
 [![Node JS](https://img.shields.io/badge/Node%20JS-v10.16.0-green.svg?logo=nodejs)](https://nodejs.org/)
 [![Nodemon](https://img.shields.io/badge/Modemon-v1.18.10-brightgreen.svg?logo=nodemon)](https://nodemon.io/)
 [![Babel](https://img.shields.io/badge/Babel-v6.26.0-yellow.svg?logo=babel)](https://babeljs.io/)
