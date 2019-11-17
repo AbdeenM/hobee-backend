@@ -1,13 +1,36 @@
 {
-	"name": "kid.hobee.app",
-	"version": "0.0.1",
+	"name": "mephisto.hobee.application",
+	"version": "1.0.0",
+	"description": "Hobee Application",
+	"keywords": [
+		"Hobee",
+		"react",
+		"meetup",
+		"social",
+		"backend",
+		"network",
+		"reactjs"
+	],
+	"homepage": "https://github.com/AbdeenM/hobee-backend",
+	"bugs": {
+		"email": "abdeen.mohamed@outlook.com",
+		"url": "https://github.com/AbdeenM/hobee-backend/issues"
+	},
+	"license": "MIT",
+	"author": {
+		"name": "Abdeen Mohamed",
+		"url": "https://github.com/AbdeenM",
+		"email": "abdeen.mohamed@outlook.com"
+	},
 	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/AbdeenM/hobee-backend"
+	},
 	"scripts": {
 		"dev": "NODE_ENV=development nodemon dist/index.js",
 		"build:watch": "babel -w --out-dir=dist ./src"
 	},
-	"repository": {},
-	"license": "MIT",
 	"dependencies": {
 		"aws-sdk": "^2.427.0",
 		"axios": "^0.18.0",
@@ -27,5 +50,6 @@
 		"babel-plugin-transform-object-rest-spread": "^6.26.0",
 		"babel-preset-env": "^1.7.0",
 		"nodemon": "^1.18.10"
-	}
+	},
+	private: false
 }
